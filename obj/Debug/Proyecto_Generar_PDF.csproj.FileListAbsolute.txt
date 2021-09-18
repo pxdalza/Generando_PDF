@@ -1,0 +1,14 @@
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\bin\Debug\Proyecto_Generar_PDF.exe.config
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\bin\Debug\Proyecto_Generar_PDF.exe
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\bin\Debug\Proyecto_Generar_PDF.pdb
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\bin\Debug\itextsharp.dll
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\bin\Debug\itextsharp.xml
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.csprojAssemblyReference.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.Form1.resources
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.Properties.Resources.resources
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.csproj.GenerateResource.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.csproj.CoreCompileInputs.cache
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.csproj.CopyComplete
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.exe
+C:\Users\Adminfoco\Documents\Visual Studio 2019\Projects\Proyecto_Generar_PDF\obj\Debug\Proyecto_Generar_PDF.pdb
