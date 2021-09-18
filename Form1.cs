@@ -115,7 +115,9 @@ namespace Proyecto_Generar_PDF
 
             doc.Close();
             writer.Close();
+            
             //
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
