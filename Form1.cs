@@ -115,12 +115,13 @@ namespace Proyecto_Generar_PDF
 
             doc.Close();
             writer.Close();
+            //
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             //if(user.Rol == A)
-            //txtMessage.Visible = true;
+            txtMessage.Visible = true;
             //else if(user.Rol == S)
             txtMessage.Visible = false;
         }
